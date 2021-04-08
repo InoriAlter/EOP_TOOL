@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/InoriAlter/EOP_TOOL/issues"
   },
-  "homepage": "https://github.com/InoriAlter/EOP_TOOL#readme"
+  "homepage": "https://github.com/InoriAlter/EOP_TOOL#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
 }
